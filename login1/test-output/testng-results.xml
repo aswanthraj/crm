@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58728" started-at="2018-04-12T10:01:09Z" finished-at="2018-04-12T10:02:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58728" started-at="2018-04-12T10:01:09Z" finished-at="2018-04-12T10:02:08Z">
+      <class name="start.combineTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:start.combineTest@d8355a8]" name="f" duration-ms="28958" started-at="2018-04-12T10:01:09Z" finished-at="2018-04-12T10:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="fa()[pri:1, instance:start.combineTest@d8355a8]" name="fa" duration-ms="9362" started-at="2018-04-12T10:01:38Z" finished-at="2018-04-12T10:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fa -->
+        <test-method status="PASS" signature="fab()[pri:2, instance:start.combineTest@d8355a8]" name="fab" duration-ms="12767" started-at="2018-04-12T10:01:47Z" finished-at="2018-04-12T10:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fab -->
+        <test-method status="PASS" signature="fabc()[pri:3, instance:start.combineTest@d8355a8]" name="fabc" duration-ms="7512" started-at="2018-04-12T10:02:00Z" finished-at="2018-04-12T10:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fabc -->
+      </class> <!-- start.combineTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
